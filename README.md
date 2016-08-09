@@ -1,4 +1,5 @@
 # 效果预览
+![image](https://github.com/a3349384/SwipeTopBottomLayout/blob/master/GIF_20160808_150714.gif)
 # Gradle
 
 ```
